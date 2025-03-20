@@ -1,9 +1,8 @@
 <p align="center">
-<h2 height="200px" align="center">Hi ! I'm Dxp <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2> 
+<h2 height="200px" align="center">Hi ! I'm Dxp <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"> </h2> 
 <h3 align="center">A curious and passionate backend developer from China</h3>
 </p>
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Naereen/StrapDown.js/issues)
+
 
 ### Use language 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwhdxp&size_weight=0.5&count_weight=0.5)
