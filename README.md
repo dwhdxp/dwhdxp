@@ -1,7 +1,10 @@
-## Hi friends,welcome to my 👋 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+## Hi friends 👋 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
+### Use language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwhdxp&size_weight=0.5&count_weight=0.5)
+I want to be a better backend developer, 
+&#x1F600;
 <!--
 **dwhdxp/dwhdxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
