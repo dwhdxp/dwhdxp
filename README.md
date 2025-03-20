@@ -1,7 +1,7 @@
 <p align="center">
 <h2 align="center">Hi ! I'm Dxp <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25" alt="Hi"></h2>
-<h3 align="center">A curious and passionate backend developer from China </h3>
-<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask me anything">
+<h3 align="center"> ☀️ A curious and passionate backend developer ☀️ </h3>
+<h3 align="center"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask me anything"></h3>
 </p>
 
 <h3> :octocat: Github data statistics </h3>
@@ -14,9 +14,9 @@
 
 - 🔭 I'm a ![Static Badge](https://img.shields.io/badge/Golang%20%26%20C%2B%2B-blue) backend developer from Anhui, China.
 - 🤔 I was previously a civil engineering student, but I love computers and cross-major to teach myself. So if you're a cross-major too, feel free to talk to each other! 
-- 🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/Cache-violet) ![Static Badge](https://img.shields.io/badge/%E9%AB%98%E5%8F%AF%E7%94%A8-green) ![Static Badge](https://img.shields.io/badge/Cache-black) 
+- 🌱 I’m currently learning ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Static Badge](https://img.shields.io/badge/MQ-black) 
 - 🚀 Motto: 真正的坚持是看清一万次放弃的理由后，仍把『继续』作为第一万零一次呼吸的节奏。
-- 📫 How to reach me: Email : dxp20001107@163.com
+- 📫 How to reach me: ✉dxp20001107@163.com
 - 🔥 Fun fact: half marathon
 - 💬 I hope to grow with you by sharing
 
