@@ -11,6 +11,19 @@
     </picture>
 </p>
 
+![动态绿色](https://github.com/dwhdxp/dwhdxp/raw/main/profile-3d-contrib/profile-green-animate.svg)
+![动态季节](https://github.com/dwhdxp/dwhdxp/raw/main/profile-3d-contrib/profile-season-animate.svg)
+![动态南方季节](https://github.com/dwhdxp/dwhdxp/raw/main/profile-3d-contrib/profile-south-season-animate.svg)
+
+![静态绿色](https://github.com/dwhdxp/dwhdxp/raw/main/profile-3d-contrib/profile-green.svg)
+![静态季节](https://github.com/dwhdxp/dwhdxp/raw/main/profile-3d-contrib/profile-season.svg)
+![静态南方季节](https://github.com/dwhdxp/dwhdxp/raw/main/profile-3d-contrib/profile-south-season.svg)
+
+![夜间视图](https://github.com/dwhdxp/dwhdxp/raw/main/profile-3d-contrib/profile-night-view.svg)
+![夜间绿色](https://github.com/dwhdxp/dwhdxp/raw/main/profile-3d-contrib/profile-night-green.svg)
+![夜间彩虹](https://github.com/dwhdxp/dwhdxp/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
+![GitBlock](https://github.com/dwhdxp/dwhdxp/raw/main/profile-3d-contrib/profile-gitblock.svg)
+
 ### Use language 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwhdxp&size_weight=0.5&count_weight=0.5)
 
