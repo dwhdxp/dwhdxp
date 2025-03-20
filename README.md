@@ -1,10 +1,14 @@
 <p align="center">
 <h2 align="center">Hi ! I'm Dxp <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25" alt="Hi"></h2>
-<h3 align="center">A curious and passionate backend developer from China 
-<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask me anything"></h3>
+<h3 align="center">A curious and passionate backend developer from China </h3>
+<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask me anything">
 </p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<h3> :octocat: Github data statistics </h3>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Profile Green Animate">
+</p>
 
 <h3> Some information about me </h3>
 
@@ -16,12 +20,6 @@
 - 🔥 Fun fact: half marathon
 - 💬 I hope to grow with you by sharing
 
-### Use language 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwhdxp&size_weight=0.5&count_weight=0.5)
-
-I want to be a better backend developer, 
-
-
 <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dwhdxp/dwhdxp/output/github-contribution-grid-snake-dark.svg">
@@ -29,6 +27,8 @@ I want to be a better backend developer,
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dwhdxp/dwhdxp/output/github-contribution-grid-snake.svg">
     </picture>
 </p>
+
+<h3> 🗂️ Highlight Projects </h3>
 
 <!--
 **dwhdxp/dwhdxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
