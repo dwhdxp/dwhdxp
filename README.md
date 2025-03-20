@@ -1,10 +1,11 @@
-## Hi friends 👋 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-
-### Use language
+<p align="center">
+<h2 height="200px" align="center">Hi ! I'm Dxp <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2> [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+<h2 align="center">A curious and passionate backend developer from China</h3>
+</p>
+### Use language 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwhdxp&size_weight=0.5&count_weight=0.5)
+
 I want to be a better backend developer, 
-&#x1F600;
 <!--
 **dwhdxp/dwhdxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
