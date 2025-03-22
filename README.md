@@ -12,7 +12,7 @@
 ### :octocat: Github Data Statistics
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Profile Green Animate">
+  <img src="https://raw.githubusercontent.com/dwhdxp/dwhdxp/main/profile-3d-contrib/profile-green-animate.svg" alt="Profile Green Animate">
 </div>
 
 ### 😊 Some Information About Me
