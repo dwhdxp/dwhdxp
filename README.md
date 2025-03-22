@@ -19,11 +19,7 @@
 
 - 🔭 I'm a ![Static Badge](https://img.shields.io/badge/Golang%20%26%20C%2B%2B-blue) backend developer from Anhui, China.
 - 🤔 I was previously a civil engineering student, but I love computers and cross-major to teach myself. So if you're a cross-major too, feel free to talk to each other! 
-- 🌱 I'm currently learning:
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-    <a href="#"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></a>
-  </p>
+- 🌱 I'm currently learning ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 - 🚀 Motto: 真正的坚持是看清一万次放弃的理由后，仍把『继续』作为第一万零一次呼吸的节奏。
 - 📫 How to reach me: ✉dxp20001107@163.com
 - 🔥 Fun fact: half marathon && Running && Game
